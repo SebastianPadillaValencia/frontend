@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
 
-          HOLA COMPAÑEROS
+          HOLA COMPAÑEROS que mas
 
          
         </a>
