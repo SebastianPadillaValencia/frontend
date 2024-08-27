@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
 
-          HOLA COMPAÑEROS que mas
+          vamos a hacer estos cambios
 
          
         </a>
